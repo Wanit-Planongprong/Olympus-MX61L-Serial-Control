@@ -92,4 +92,9 @@ namespace Olympus_MX61_MX61L_Serial_comm
             }
         }
     }
+
+    public static class MX63_MX63L_Command
+    {
+
+    }
 }
