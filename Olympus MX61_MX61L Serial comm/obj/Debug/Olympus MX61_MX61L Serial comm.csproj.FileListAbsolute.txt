@@ -1,0 +1,14 @@
+D:\Wanit P\2022\USG3 Scope\Olympus MX61_MX61L Serial comm\Olympus MX61_MX61L Serial comm\bin\Debug\Olympus MX61_MX61L Serial comm.exe.config
+D:\Wanit P\2022\USG3 Scope\Olympus MX61_MX61L Serial comm\Olympus MX61_MX61L Serial comm\bin\Debug\Olympus MX61_MX61L Serial comm.exe
+D:\Wanit P\2022\USG3 Scope\Olympus MX61_MX61L Serial comm\Olympus MX61_MX61L Serial comm\bin\Debug\Olympus MX61_MX61L Serial comm.pdb
+D:\Wanit P\2022\USG3 Scope\Olympus MX61_MX61L Serial comm\Olympus MX61_MX61L Serial comm\obj\Debug\Olympus MX61_MX61L Serial comm.csprojAssemblyReference.cache
+D:\Wanit P\2022\USG3 Scope\Olympus MX61_MX61L Serial comm\Olympus MX61_MX61L Serial comm\obj\Debug\Olympus_MX61_MX61L_Serial_comm.Form1.resources
+D:\Wanit P\2022\USG3 Scope\Olympus MX61_MX61L Serial comm\Olympus MX61_MX61L Serial comm\obj\Debug\Olympus_MX61_MX61L_Serial_comm.Properties.Resources.resources
+D:\Wanit P\2022\USG3 Scope\Olympus MX61_MX61L Serial comm\Olympus MX61_MX61L Serial comm\obj\Debug\Olympus MX61_MX61L Serial comm.csproj.GenerateResource.cache
+D:\Wanit P\2022\USG3 Scope\Olympus MX61_MX61L Serial comm\Olympus MX61_MX61L Serial comm\obj\Debug\Olympus MX61_MX61L Serial comm.csproj.CoreCompileInputs.cache
+D:\Wanit P\2022\USG3 Scope\Olympus MX61_MX61L Serial comm\Olympus MX61_MX61L Serial comm\obj\Debug\Olympus MX61_MX61L Serial comm.exe
+D:\Wanit P\2022\USG3 Scope\Olympus MX61_MX61L Serial comm\Olympus MX61_MX61L Serial comm\obj\Debug\Olympus MX61_MX61L Serial comm.pdb
+D:\Wanit P\2022\USG3 Scope\Olympus MX61_MX61L Serial comm\Olympus MX61_MX61L Serial comm\bin\Debug\Olympus MX61_MX61L Serial comm.exe.manifest
+D:\Wanit P\2022\USG3 Scope\Olympus MX61_MX61L Serial comm\Olympus MX61_MX61L Serial comm\bin\Debug\Olympus MX61_MX61L Serial comm.application
+D:\Wanit P\2022\USG3 Scope\Olympus MX61_MX61L Serial comm\Olympus MX61_MX61L Serial comm\obj\Debug\Olympus MX61_MX61L Serial comm.exe.manifest
+D:\Wanit P\2022\USG3 Scope\Olympus MX61_MX61L Serial comm\Olympus MX61_MX61L Serial comm\obj\Debug\Olympus MX61_MX61L Serial comm.application
